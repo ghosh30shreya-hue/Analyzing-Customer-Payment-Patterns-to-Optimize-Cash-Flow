@@ -26,4 +26,4 @@ Customer segmentation using clustering techniques.
 Development of recommendations to reduce delays and improve cash flow reliability.
 Conclusion and Future Scope This project seeks to bridge the gap between analytics and finance by creating a framework to optimize cash flow through better understanding of payment behaviours. While the current study uses historical data from 2025, future enhancements could include real-time payment monitoring, integration of macroeconomic factors, and advanced AI-based models. These improvements would allow businesses to forecast risks more accurately and respond with greater agility, ensuring long- term financial stability.
 
-Submitted by Shreay Ghosh 230291412095
+Submitted by Shreya Ghosh 230291412095
